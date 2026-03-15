@@ -1,0 +1,5 @@
+baidehi.jpg moved to Images
+music.mp4 moved to Videos
+sani.pdf moved to Documents
+smart_file_manager.sh moved to Others
+sss.txt moved to Documents
