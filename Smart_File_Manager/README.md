@@ -1,4 +1,4 @@
-# Smart File Managergit 
+# Smart File Manager
 Smart File Manager is a Linux shell script that helps automatically organize files in the directory into designated folders based on their type. In many cases, users store many files in one folder,which makes it difficult to manage them. This script solves that problem by sorting files automatically. The main Linux commands used in this project are mkdir -p to create folders, mv to move files, chmod to give permission to the script, and echo to print the messages.
 
 
